@@ -35,8 +35,11 @@ Takes user input and generates a small open-source philosophy statement.
 
 1. Open Ubuntu (WSL)
 2. Navigate to project directory:
+   
 3.Make scripts executable:
+
  chmod +x *.sh
+ 
 4.Run scripts:
 
 bash script1.sh
