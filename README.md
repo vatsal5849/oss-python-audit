@@ -34,6 +34,7 @@ Takes user input and generates a small open-source philosophy statement.
 ## How to Run
 
 1. Open Ubuntu (WSL)
+   
 2. Navigate to project directory:
    
 3.Make scripts executable:
