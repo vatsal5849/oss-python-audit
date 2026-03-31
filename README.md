@@ -32,15 +32,13 @@ Takes user input and generates a small open-source philosophy statement.
 - Git installed
 
 ## How to Run
-
-
 1. Open Ubuntu (WSL)
    
 2. Navigate to project directory:
    
 3.Make scripts executable:
 
- chmod +x *.sh
+chmod +x *.sh
  
 4.Run scripts:
 
