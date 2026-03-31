@@ -40,7 +40,7 @@ Takes user input and generates a small open-source philosophy statement.
 
      chmod +x *.sh
 
- 4.Run scripts:
+ 4. Run scripts:
 
 bash script1.sh
 
