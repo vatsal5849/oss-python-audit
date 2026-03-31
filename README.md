@@ -26,17 +26,24 @@ Reads a log file and counts occurrences of a specific keyword.
 
 Script 5: Open Source Manifesto Generator
 Takes user input and generates a small open-source philosophy statement.
+## Requirements
+- Ubuntu (via WSL recommended)
+- Bash shell
+- Git installed
 
 ## How to Run
 
-Make scripts executable:
+1. Open Ubuntu (WSL)
 
+2. Navigate to project directory:
+
+3.Make scripts executable:
 chmod +x *.sh
 
-Run scripts:
+4.Run scripts:
 
-./script1.sh
-./script2.sh
-./script3.sh
-./script4.sh /var/log/syslog error
-./script5.sh
+bash script1.sh
+bash script2.sh
+bash script3.sh
+bash script4.sh /var/log/syslog error
+bash script5.sh
